@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jesus</h1>
-<h4 align="center">I am a university student from the University of UDG., 
+<h4 align="center">Soy Jesus Gonzalez de la Torre estudio ingeneria en computacion.
 </div>
 
 <div align="center">
