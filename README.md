@@ -12,11 +12,13 @@
 
 ---
 
-### 🐍 Mira mi Snake AI jugando solo
-👉 [**Abrir el juego**](https://CH0T0.github.io/snake-ai/)
+### 🐍 Mi Snake comiéndose mis contribuciones
+
+![snake animation](https://raw.githubusercontent.com/CH0T0/CH0T0/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📊 Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=CH0T0&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=CH0T0&theme=tokyonight)
