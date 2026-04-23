@@ -1,43 +1,22 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Jesus</h1>
-<h4 align="center">Soy Jesus Gonzalez de la Torre estudio ingeneria en computacion.
+  <h1>Hola 👋, soy Jesus Gonzalez</h1>
+  <h4>Ingeniería en Computación · 6° Semestre</h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+---
 
------
-<details>
-  <summary>☎️ contact me</summary>
-<div>
+### 👨‍💻 Sobre mí
+- 🎓 Estudio **Ingeniería en Computación**
+- 📚 Actualmente en **6° semestre**
+- 🌱 Aprendiendo y construyendo proyectos
 
-</div>
-</details>
+---
 
-<details>
-  <summary>🧮 about</summary>
-<div>
+### 🐍 Mira mi Snake AI jugando solo
+👉 [**Abrir el juego**](https://CH0T0.github.io/snake-ai/)
 
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
+---
 
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
- 
-  </div>
-</details> 
-<details open>
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=CH0T0&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=CH0T0&theme=tokyonight)
